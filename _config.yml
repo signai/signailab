@@ -22,9 +22,9 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "SignAILab"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerAlternateName: "SignAILab UDOM"
+organizerDescription: ""
+organizerEmail: "aisignlab@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
@@ -92,9 +92,9 @@ eventAddressLocality: "Tanzania"
 eventAddressLocalityRegion: "Lvivska"
 eventPostalCode: "79000"
 eventAddressCountry: "Ukraine"
-eventStartTime: "2019-05-25T10:00"
+eventStartTime: "2019-05-25"
 eventDoorTime: "09:00"
-eventEndTime: "2019-09-25T20:00"
+eventEndTime: "2019-09-25"
 eventPlaceCoordinates: "49.843237, 24.028751"
 mapCenterCoordinates: "49.842537, 24.025701"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
@@ -102,7 +102,7 @@ mapMobileCenterCoordinates: "49.841620, 24.029411"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "SignAILab"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -114,7 +114,7 @@ partnersC4sponsorsButton: "Become a sponser"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+
 
 # Footer
 socialLinks:
