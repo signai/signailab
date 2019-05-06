@@ -21,7 +21,7 @@ googleAnalyticsSiteUrl: "signai.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
+organizerName: "SignAILab"
 organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "lviv@gdg.org.ua"
@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, research, signal, processing, programming, android, ai, developers"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -44,40 +44,36 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ #- {permalink: "/schedule/", text: "Papers"}
+ #- {permalink: "/speakers/", text: "Projects"}
+ - {permalink: "/team/", text: "People"}
+ #- {permalink: "/logistics/", text: "Events"}
+ - {permalink: "/hackathon/", text: "Projects"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ #- {link: "http://bit.ly/dfua-c4p", text: "Become a sponsor"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ #- {link: "http://bit.ly/dfua-c4p", text: "Become a contributor"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "<typeout> SignAILab"
+eventDate: ""
+typeoutTextValues: '"Sustainability", "Signal process­sing", "Artificial Intelligence", "", ""'
+typeoutFallback: ""
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
-
+ #- {link: "http://bit.ly/dfua-c4p", text: "Become a sponsor"}
+ #- {permalink: "/#tickets", text: "Contribute"}
+ 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: ""
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Artificial Intelligence", image: "workshop.jpg", text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit" }
+ - {title: "Signal process­sing", image: "workshop.jpg", text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit" }
+ - {title: "Sustainability", image: "hackathon.jpg", text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -85,8 +81,8 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Team"
+rockstarSpeakersButtonText: "See all people"
 
 # Location Block
 locationBlockTitle: "Location"
