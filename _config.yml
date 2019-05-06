@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "SignAILab"
 email: "aisignlab@gmail.com"
 description: "SignAILab is an interdisciplinary AI lab that focus to explore the potential of machine learning as well as advanced signal process­ing and communication theory  in addressing sustainability challenge"
-baseurl: "/signai"
+baseurl: "/signailab"
 url: "http://signai.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -63,7 +63,6 @@ typeoutFallback: ""
 heroButtons:
  #- {link: "http://bit.ly/dfua-c4p", text: "Become a sponsor"}
  #- {permalink: "/#tickets", text: "Contribute"}
-
 # About Block
 aboutTitle: ""
 aboutBlock:
@@ -102,7 +101,7 @@ rockstarSpeakersButtonText: "See all people"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "SignAILab"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -147,7 +146,7 @@ showSessions: False
 
 # Team Block
 teamBlockTitle: "About SignAILab"
-#aboutUs: "SignAILab is an interdisciplinary Artificial Intelligence (AI) interested in using  machine learning theories, signal process­ing as well as communication theory to address sustainability challenge."
+aboutUs: "SignAILab is an interdisciplinary Artificial Intelligence (AI) interested in using  machine learning theories, signal process­ing as well as communication theory to address sustainability challenge."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
