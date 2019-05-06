@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "SignAILab"
 email: "aisignlab@gmail.com"
 description: "SignAILab is an interdisciplinary AI lab that focus to explore the potential of machine learning as well as advanced signal process­ing and communication theory  in addressing sustainability challenge"
-baseurl: "/signai"
+baseurl: "/signailab"
 url: "http://signai.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
