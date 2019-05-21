@@ -43,7 +43,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ #- {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/schedule/", text: "Papers"}
  #- {permalink: "/speakers/", text: "Projects"}
  - {permalink: "/team/", text: "People"}
@@ -67,7 +67,7 @@ heroButtons:
 aboutTitle: ""
 aboutBlock:
  - {title: "Energy Management", image: "workshop.jpg", text: "Explore energy disaggregation, smart-meter data and weather-data for energy anagement (estimation, forecasting and optimisation)" }
- - {title: "Sustainable cities and communities", image: "workshop.jpg", text: "Combining Satellite imagery,IoT and mobile sensing  for sustainable cities and communities" }
+ - {title: "Sustainable cities and communities", image: "workshop.jpg", text: "Combining Satellite imagery, IoT and mobile sensing  for sustainable cities and communities" }
  - {title: "Reduced inequalities", image: "hackathon.jpg", text: "Investigate neural machine translation and speech processing for local contents" }
 
 # Statistic Block
@@ -146,8 +146,8 @@ showSessions: False
 
 # Team Block
 teamBlockTitle: "About SignAILab"
-aboutUs: "SignAILab is an interdisciplinary research group of the Department of Telecommunications  at the University of Dodoma. The group is interested in using machine learning, deep learning, data science, internet of things(IoT) as well as advanced signal process­ing techniques to address sustainability challenges. 
-At SignAILab we believe that combining these techniques has a potential to address most of toughest challenges in the Global South"
+aboutUs: "SignAILab is an interdisciplinary research group of the Department of Telecommunications  at the University of Dodoma. The group is interested in using machine learning, deep learning, data science, internet of things(IoT) as well as advanced signal process­ing and commmunications theory to address sustainability challenges. 
+At SignAILab we believe that combining these techniques has a potential to address most of the complex challenges in the Global South"
 teamsub_1BlockTitle: "Our research"
 targetAudience: "Our research focus on the study and development of innovative tools and techniques for addressing societal challenges in the Global South. The current research topics focus on Sustainable development goals (SGDs) 7,  9, 10, and 11. 
 " 
