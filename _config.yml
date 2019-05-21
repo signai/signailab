@@ -25,7 +25,7 @@ organizerName: "SignAILab"
 organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
+organizerLogo: "/img/seo/organizer-logo.png66666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
@@ -66,9 +66,9 @@ heroButtons:
 # About Block
 aboutTitle: ""
 aboutBlock:
- - {title: "Artificial Intelligence", image: "workshop.jpg", text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit" }
- - {title: "Signal process­sing", image: "workshop.jpg", text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit" }
- - {title: "Sustainability", image: "hackathon.jpg", text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit" }
+ - {title: "Energy Management", image: "workshop.jpg", text: "Energy disaggregation, analysis of smart-meter data, energy forecasting and optimization." }
+ - {title: "Sustainable cities and communities", image: "workshop.jpg", text: "Urban traffic control and management, Analysis of Satellite images for sustainable cities and communities" }
+ - {title: "Reduced inequalities", image: "hackathon.jpg", text: "Transfer Learning for Low-Resource Languages(local-languages)  in the global south" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -146,7 +146,12 @@ showSessions: False
 
 # Team Block
 teamBlockTitle: "About SignAILab"
-aboutUs: "SignAILab is an interdisciplinary Artificial Intelligence (AI) interested in using  machine learning theories, signal process­ing as well as communication theory to address sustainability challenge."
+aboutUs: "SignAILab is an interdisciplinary research group of the Department of Telecommunications  at the University of Dodoma. The group is interested in using machine learning, deep learning, data science, internet of things(IoT) as well as advanced signal process­ing techniques to address sustainability challenges. 
+At SignAILab we believe that combining these techniques has a potential to address most of toughest challenges in the Global South"
+teamsub_1BlockTitle: "Our research"
+targetAudience: "Our research focus on the study and development of innovative tools and techniques for addressing societal challenges in the Global South. The current research topics focus on Sustainable development goals (SGDs) 7,  9, 10, and 11. 
+" 
+
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
