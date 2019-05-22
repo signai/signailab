@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "<typeout> SignAILab"
 eventDate: ""
-typeoutTextValues: '"Sustainability", "Signal process­sing", "Artificial Intelligence", "", ""'
+typeoutTextValues: '"Sustainability", "Signal process­sing", "Communication theory", "IoT","Artificial Intelligence", "Machine learning", "Data science",""'
 typeoutFallback: ""
 heroButtons:
  #- {link: "http://bit.ly/dfua-c4p", text: "Become a sponsor"}
@@ -66,9 +66,10 @@ heroButtons:
 # About Block
 aboutTitle: ""
 aboutBlock:
- - {title: "Energy Management", image: "workshop.jpg", text: "Explore energy disaggregation, smart-meter data and weather-data for energy anagement (estimation, forecasting and optimisation)" }
- - {title: "Sustainable cities and communities", image: "workshop.jpg", text: "Combining Satellite imagery, IoT and mobile sensing  for sustainable cities and communities" }
- - {title: "Reduced inequalities", image: "hackathon.jpg", text: "Investigate neural machine translation and speech processing for local contents" }
+ - {title: "Energy Management", image: "signAiLab.jpg", text: "Use smart-meter and weather-data for energy management (estimation, forecasting and optimisation)" }
+ - {title: "Sustainable cities", image: "signAiLab.jpg", text: "Combining Satellite imagery, IoT and mobile sensing  for sustainable cities" }
+ - {title: "Reduced inequalities", image: "signAiLab.jpg", text: "Investigate neural machine translation and speech processing for local contents" }
+ - {title: "Communication systems", image: "signAiLab.jpg", text: "Applied machine learning for communication systems and services." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -139,7 +140,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "signAiLab"
 
 # Speakers List Block
 showSessions: False

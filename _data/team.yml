@@ -8,10 +8,9 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "twitter", link: "https://twitter.com/sambaiga"}
+    - {name: "github", link: "https://github.com/sambaiga"}
+    - {name: "site", link: "sambaiga.github.io"}
 - 
   id: 1
   name: "Maria"
