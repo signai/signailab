@@ -39,7 +39,9 @@
                                 <h2 class="name">{{ teamMember.name }} <span>{{ teamMember.surname }}</span></h2>
                                 <div class="clearfix"></div>
                                 <span class="position">{{ teamMember.title }}</span>
+                                 <p class="about">{{ teamMember.bio }}</p>
                             </div>
+
                             {% for social in teamMember.social %}
                             <a href="{{ social["link"] }}" target="_blank">
                                 <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">

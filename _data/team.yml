@@ -3,10 +3,13 @@
   name: "Anthony"
   surname: "Faustine"
   title: "Researcher"
+  bio: "Faustine is a PhD machine learning researcher at IDLab research group of Ghent University since october 2017, advised by Tom Dhaene and Dirk Deschrijver.
+  His research interest lie in the application of machine learning for computational sustainability with a focus on machine learning and signal processing.
+  He is currently investigating robust machine learning methods for energy-disaggregation."
   thumbnailUrl: signAiLab.png
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "Researcher", title: "signAiLab"}
   social: 
     - {name: "twitter", link: "https://twitter.com/sambaiga"}
     - {name: "github", link: "https://github.com/sambaiga"}
@@ -19,7 +22,7 @@
   thumbnailUrl: signAiLab.png
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "Researcher", title: "signAiLab"}
   social: 
     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
     - {name: "github", link: "https://github.com/ozasadnyy"}
@@ -28,14 +31,13 @@
   name: "Yona"
   surname: "Zakaria"
   title: "Researcher"
-  thumbnailUrl: signAiLab.png
   team: true
+  thumbnailUrl: signAiLab.png
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "Researcher", title: "signAiLab"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "twitter", link: ""}
+    - {name: "site", link: ""}
 
 - 
   id: 3
@@ -45,29 +47,21 @@
   thumbnailUrl: signAiLab.png
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "Researcher", title: "signAiLab"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "site", link: ""}
 - 
   id: 4
-  name: "John "
-  surname: "David"
+  name: "Zephania "
+  surname: "Reueben"
   title: "Student"
   thumbnailUrl: signAiLab.png
   subTeam: true
+  ribbon: 
+    - {abbr: "Student", title: "signAiLab"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Rehema"
-  surname: "John"
-  title: "Student"
-  thumbnailUrl: signAiLab.png
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+   
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}

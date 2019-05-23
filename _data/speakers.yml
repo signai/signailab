@@ -3,38 +3,61 @@
   name: "Anthony"
   surname: "Faustine"
   title: "Researcher"
+  bio: "Faustine is a PhD machine learning researcher at IDLab research group of Ghent University since october 2017, advised by Tom Dhaene and Dirk Deschrijver.
+  His research interest lie in the application of machine learning for computational sustainability with a focus on deeblearning, bayesian inference and signal processing.
+  He is currently investigating robust machine learning methods for energy-disaggregation."
   thumbnailUrl: signAiLab.png
   rockstar: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "Assistant Lecturer", title: "Department of Telecommunications"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "twitter", link: "https://twitter.com/sambaiga"}
+    - {name: "github", link: "https://github.com/sambaiga"}
+    - {name: "site", link: "https://sambaiga.github.io/"}
+
 - 
-  id: 3
-  name: "Rukia"
-  surname: "Mwifunyi"
+  id: 1
+  name: "Maria"
+  surname: "Gabriel"
   title: "Researcher"
+  bio: "Gabriel is PhD student at Huazhong University of Science and Technology, School of Electronic Information and Communication, from September 2018, Supervised by Prof. Fei Wang. She is working on detecting non technical losses in smart meter data using deep learning methods."
   thumbnailUrl: signAiLab.png
   rockstar: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "Assistant Lecturer", title: "Department of Telecommunications"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "site", link: ""}
+
 - 
   id: 2
   name: "Yona"
   surname: "Zakaria"
   title: "Researcher"
+  bio: "Mr Zakaria is a member of academic staff at department of telecommunications. His research interest lies in the application of machine learning and signal processing for computational sustainability."
   thumbnailUrl: signAiLab.png
   rockstar: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "Assistant Lecturer", title: "Department of Telecommunications"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    
+    - {name: "twitter", link: ""}
+    - {name: "site", link: ""}
+
+
+- 
+  id: 3
+  name: "Rukia"
+  surname: "Mwifunyi"
+  title: "Researcher"
+  bio: "Rukia is a  PhD Student at the University of Dar es Salaam from October 2016. Her research interest is on  multi-agent systems, self-healing systems  and deep learning.She is currently working on distributed approaches for  service restoration of the power distribution systems considering stochastic nature of the load demand and renewable energy sources."
+  thumbnailUrl: signAiLab.png
+  rockstar: true
+  ribbon: 
+    - {abbr: "Assistant Lecturer", title: "Department of Telecommunications"}
+  social: 
+   
+    - {name: "twitter", link: ""}
+    - {name: "site", link: ""}
+
