@@ -58,7 +58,7 @@
   surname: "Shayo"
   title: "Researcher"
   thumbnailUrl: signAiLab.png
-  Team: true
+  team: true
   ribbon: 
     - {abbr: "Researcher", title: "signAiLab"}
   social: 
@@ -73,7 +73,7 @@
   surname: "Hassan"
   title: "Researcher and Team leader"
   thumbnailUrl: signAiLab.png
-  subTeam: true
+  team: true
   ribbon: 
     - {abbr: "Team leader", title: "signAiLab"}
   social: 
