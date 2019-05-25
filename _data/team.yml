@@ -54,6 +54,35 @@
     - {name: "site", link: ""}
 - 
   id: 4
+  name: "Bertha "
+  surname: "Shayo"
+  title: "Researcher"
+  thumbnailUrl: signAiLab.png
+  Team: true
+  ribbon: 
+    - {abbr: "Researcher", title: "signAiLab"}
+  social: 
+   
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+
+
+- 
+  id: 5
+  name: "Kilavo"
+  surname: "Hassan"
+  title: "Researcher and Team leader"
+  thumbnailUrl: signAiLab.png
+  subTeam: true
+  ribbon: 
+    - {abbr: "Team leader", title: "signAiLab"}
+  social: 
+   
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+
+- 
+  id: 6
   name: "Zephania "
   surname: "Reuben"
   title: "Student"
