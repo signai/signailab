@@ -70,6 +70,7 @@ aboutBlock:
  - {title: "Sustainable cities", image: "signAiLab.jpg", text: "Combining Satellite imagery, IoT and mobile sensing  for sustainable cities" }
  - {title: "Reduced inequalities", image: "signAiLab.jpg", text: "Investigate neural machine translation and speech processing for local contents" }
  - {title: "Communication systems", image: "signAiLab.jpg", text: "Applied machine learning for communication systems and services." }
+ - {title: "Climate change", image: "signAiLab.jpg", text: "Investiagte AI and signal processing techniques for climate change" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"

@@ -61,3 +61,33 @@
     - {name: "twitter", link: ""}
     - {name: "site", link: ""}
 
+- 
+  id: 4
+  name: "Bertha"
+  surname: "Shao"
+  title: "Researcher"
+  bio: ""
+  thumbnailUrl: signAiLab.png
+  rockstar: true
+  ribbon: 
+    - {abbr: "Assistant Lecturer", title: "Department of Telecommunications"}
+  social: 
+   
+    - {name: "twitter", link: ""}
+    - {name: "site", link: ""}
+
+- 
+  id: 5
+  name: "Kilavo"
+  surname: "Hassan"
+  title: "Researcher and Team leader"
+  bio: ""
+  thumbnailUrl: signAiLab.png
+  rockstar: true
+  ribbon: 
+    - {abbr: "Assistant Lecturer", title: "Department of Telecommunications"}
+  social: 
+   
+    - {name: "twitter", link: ""}
+    - {name: "site", link: ""}
+
