@@ -4,7 +4,7 @@
   surname: "Faustine"
   title: "Researcher"
   bio: "Faustine is a PhD machine learning researcher at IDLab research group of Ghent University since october 2017, advised by Tom Dhaene and Dirk Deschrijver.
-  His research interest lie in the application of machine learning for computational sustainability with a focus on deeblearning, bayesian inference and signal processing.
+  His research interest lie in the application of machine learning for computational sustainability with a focus on statistical learning, deeplearning, bayesian inference and signal processing.
   He is currently investigating robust machine learning methods for energy-disaggregation."
   thumbnailUrl: signAiLab.png
   rockstar: true
