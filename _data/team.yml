@@ -94,3 +94,18 @@
    
     - {name: "twitter", link: ""}
     - {name: "github", link: ""}
+
+
+- 
+  id: 6
+  name: "Waziri "
+  surname: "Shebogholo"
+  title: "Student"
+  thumbnailUrl: signAiLab.png
+  subTeam: true
+  ribbon: 
+    - {abbr: "Student", title: "signAiLab"}
+  social: 
+   
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}

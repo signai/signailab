@@ -4,7 +4,7 @@
   surname: "Faustine"
   title: "Researcher"
   bio: "Faustine is a PhD machine learning researcher at IDLab research group of Ghent University since October 2017, advised by Tom Dhaene and Dirk Deschrijver.
-  His research interest lie in the application of machine learning for computational sustainability with a focus on statistical-learning, deep-learning, bayesian inference and signal processing.
+  His research interest lie in the application of machine learning for computational sustainability with a focus on statistical-learning, deep-learning, bayesian inference, natural-language processing and signal processing.
   He is currently investigating robust machine learning methods for energy-disaggregation."
   thumbnailUrl: signAiLab.png
   rockstar: true
@@ -81,7 +81,7 @@
   name: "Kilavo"
   surname: "Hassan"
   title: "Researcher and Team leader"
-  bio: "A lecturer at the University of Dodoma in the Department of Telecommunications and Communications Networks.His research interest lie in the applied communication theory, digital siganl processing, and deep learning. He is currently working on developing the system using machine learning and artificial intelligence to improve and increase the sustainable economic activity in the semi-arid area in Tanzania."
+  bio: "A lecturer at the University of Dodoma in the Department of Telecommunications and Communications Networks.His research interest lie in the application of communication theory, digital signal processing(DSP), and deep learning for computational sustainability. He is currently working on a research on how the combination of AI, DSP and communication theory can be used to improve and increase the sustainable economic activity in the semi-arid area in Tanzania."
   thumbnailUrl: signAiLab.png
   rockstar: true
   ribbon: 
