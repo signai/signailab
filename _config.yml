@@ -148,8 +148,7 @@ showSessions: False
 
 # Team Block
 teamBlockTitle: "About SignAILab"
-aboutUs: "SignAILab is an interdisciplinary research group of the Department of Telecommunications  at the University of Dodoma. The group is interested in using machine learning, deep learning, data science, internet of things(IoT) as well as advanced signal process­ing and commmunications theory to address sustainability challenges. 
-At SignAILab we believe that combining these techniques has a potential to address most of the complex sustainability challenges."
+aboutUs: "SignAILab is an interdisciplinary research group of the Department of Telecommunications at the University of Dodoma. The group is interested in using machine learning, deep learning, data science, internet of things(IoT) as well as advanced signal processing and communications theory to address sustainability challenges. At SignAILab we believe that combining these techniques has a potential to address most of the complex sustainability challenges."
 teamsub_1BlockTitle: "Our research"
 targetAudience: "Our research focus on the study and development of innovative tools and techniques for addressing societal challenges in the Global South. The current research topics focus on Sustainable development goals (SGDs) 7,  9, 10, and 11. 
 " 
