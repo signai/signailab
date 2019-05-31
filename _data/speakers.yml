@@ -66,7 +66,7 @@
   name: "Bertha"
   surname: "Shao"
   title: "Researcher"
-  bio: ""
+  bio: "Assistant Lecturer at The University of Dodoma’s College of Informatics and Virtual Education. Research areas of interest applied machine learning for IoT and communications systems"
   thumbnailUrl: signAiLab.png
   rockstar: true
   ribbon: 
@@ -79,9 +79,24 @@
 - 
   id: 5
   name: "Kilavo"
-  surname: "Hassan"
+  surname: "Hassan (PhD)"
   title: "Researcher and Team leader"
   bio: "A lecturer at the University of Dodoma in the Department of Telecommunications and Communications Networks.His research interest lie in the application of communication theory, digital signal processing(DSP), and deep learning for computational sustainability. He is currently working on a research on how the combination of AI, DSP and communication theory can be used to improve and increase the sustainable economic activity in the semi-arid area in Tanzania."
+  thumbnailUrl: signAiLab.png
+  rockstar: true
+  ribbon: 
+    - {abbr: "Assistant Lecturer", title: "Department of Telecommunications"}
+  social: 
+   
+    - {name: "twitter", link: ""}
+    - {name: "site", link: ""}
+
+- 
+  id: 6
+  name: "Daniel:"
+  surname: "Ngondya (PhD)"
+  title: "Researcher"
+  bio: "Assistant Lecturer at The University of Dodoma’s College of Informatics and Virtual Education. Research areas of interest include Optimization of Utility Networks, Machine Learning, and Game Theory"
   thumbnailUrl: signAiLab.png
   rockstar: true
   ribbon: 
